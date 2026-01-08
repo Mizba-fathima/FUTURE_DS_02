@@ -29,13 +29,8 @@ To track and compare campaign performance across platforms such as Instagram, Fa
 | File | Description |
 |------|------------|
 | social_media_campaign_data.csv | Campaign dataset |
-| task2_dashboard.pbix | Power BI dashboard |
-| screenshots/ | Dashboard output images |
-
----
-
-## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard_full.png)
+| Task2_dashboard.pbix | Power BI dashboard |
+| Screenshots/ | Dashboard output images |
 
 ---
 
